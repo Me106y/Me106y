@@ -9,7 +9,7 @@
 ### 🎷 My Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-D2507E?style=for-the-badge&logo=hadoop&logoColor=white)
 ![HBase](https://img.shields.io/badge/HBase-FCC624?style=for-the-badge&logo=hbase&logoColor=white)
