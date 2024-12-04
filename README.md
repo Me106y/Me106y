@@ -1,5 +1,5 @@
 ### Hello! I'm Me106y 🌈
-![Profile views](https://komarev.com/ghpvc/?username=Me106y&label=Profile%20views&color=0a0a0a&style=flat-square)
+
 
 
 ### 👋 About me
