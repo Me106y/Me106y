@@ -1,6 +1,9 @@
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi I'm Me106y 🌈&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Me106y &center=true&font=Roboto&size=27" /></div>
 
+##🤖Github Stats: 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y" /> </div>
 
 <!--
 **Me106y/Me106y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤖Github Stats: 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y" /> </div>
+
 
 
 
