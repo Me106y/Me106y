@@ -1,15 +1,15 @@
-### Hello! I'm Philip 👋
+### Hello! I'm Me106y 👋
 
 I do open source :)
 
-![Profile views](https://komarev.com/ghpvc/?username=Jianghuchengphilip&label=Profile%20views&color=0a0a0a&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Me106y&label=Profile%20views&color=0a0a0a&style=flat-square)
 
 I'm a self-taught passionate Blockchain Engineer from China.
 
 ### About me
 
 - 📚 My research field in recent years has been intelligent rehabilitation engineering
-- ❤️ Built [Generate-NFT](https://github.com/Jianghuchengphilip/Generate-NFT), [Master-Art-Punk](https://github.com/Jianghuchengphilip/Master-Art-Punk) and more on GitHub
+- ❤️ Built [Generate-NFT](https://github.com/Me106y/Generate-NFT), [Master-Art-Punk](https://github.com/Me106y/Master-Art-Punk) and more on GitHub
 - 💬 Ask me about anything here
 
 ### My Skills
@@ -28,7 +28,6 @@ I'm a self-taught passionate Blockchain Engineer from China.
 ### Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jianghuchengphilip&show_icons=true&theme=tokyonight" alt="PhilipJhc's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jianghuchengphilip&theme=tokyonight" alt="PhilipJhc's GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=tokyonight" alt="Me106y's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y&theme=tokyonight" alt="Me106y's GitHub Streak Stats" />
 </div>
-
