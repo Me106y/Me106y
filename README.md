@@ -1,5 +1,6 @@
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!&center=true&font=Pacifico&size=37" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Me106y's Space!&center=true&font=Pacifico&size=30" /></div>
+
 
 
 ### 👋 About me
