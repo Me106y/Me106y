@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Me106y 🌈
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
+
 
 <!--
 **Me106y/Me106y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me106y" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Me106y&theme=xcode" /> </div>
+
+
