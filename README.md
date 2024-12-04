@@ -1,5 +1,6 @@
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello! I'm Me106y&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Me106y!&center=true&font=Roboto&size=27" /></div>
+
 
 
 
