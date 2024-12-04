@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Me106y's&nbspSpace!&center=true&font=Pacifico&size=30" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Me106y's%20Space!&center=true&font=Pacifico&size=30" /></div>
 
 
 
