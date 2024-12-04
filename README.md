@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Me106y &center=true&font=Roboto&size=27" /></div>
 
-## 🤖Github Stats: 
+# 🤖Github Stats: 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y" /> </div>
 
