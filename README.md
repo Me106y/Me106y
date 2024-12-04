@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!&center=true&font=Roboto&size=27" /></div>
 
 
 ### 👋 About me
