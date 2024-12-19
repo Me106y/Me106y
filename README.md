@@ -21,5 +21,5 @@
 ### 🤖 Github Stats
 
 <div align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=dark&count_private=true)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me106y&theme=dark&layout=compact)
 </div>
