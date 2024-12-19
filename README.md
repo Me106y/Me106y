@@ -18,8 +18,3 @@
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A5C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-E25A5C?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### 🤖 Github Stats
-
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me106y)
-</div>
