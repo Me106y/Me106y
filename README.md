@@ -21,5 +21,5 @@
 ### 🤖 Github Stats
 
 <div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=me106y&theme=dark&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me106y)
 </div>
