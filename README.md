@@ -21,5 +21,5 @@
 ### 🤖 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Me106y&theme=tokyonight" alt="Me106y's GitHub Streak Stats" />
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Me106y&show_icons=true&theme=dark&count_private=true)
 </div>
